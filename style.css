@@ -1213,8 +1213,8 @@ section {
 
 /* Education Section */
 .education-content {
-  max-width: 600px;
-  margin: 0 auto;
+  display: flex;
+  gap: 2rem;
 }
 
 .education-content .card {
